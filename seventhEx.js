@@ -1,0 +1,31 @@
+///////////////////////// Variable Scop ///////////////////////////////
+
+// Global Scope
+// let a = "hello world";
+
+// function greet() {
+//     console.log(a);
+// }
+
+// greet(); // hello world
+
+// // local scope of a variable
+// let a = "hello world";
+
+// function greet() {
+//     let b = "World"
+//     console.log(a + b);
+// }
+
+// greet(); // hello world
+// console.log(a + b); // error
+
+///////////////////////// Variable Scop ///////////////////////////////
+
+///////////////////////// Hoisting ///////////////////////////////
+
+// a = 5;
+// console.log(a);
+// var a; // 5
+
+///////////////////////// Hoisting ///////////////////////////////
